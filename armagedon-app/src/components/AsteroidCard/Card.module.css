@@ -1,0 +1,35 @@
+.card{
+
+        
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+.regularCard{
+    position: relative;
+    width: 920px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+
+
+    background: linear-gradient(90deg, #CFF370 0%, #7DE88C 100%);
+}
+
+.cardRed{
+    position: relative;
+    width: 920px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+
+
+    background: linear-gradient(90deg, #f68e9f 0%, #f04c62 100%);
+}
+
